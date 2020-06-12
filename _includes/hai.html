@@ -1,0 +1,9 @@
+<template class="hai">
+  <h1>Hai <span class="nama"></span></h1>
+</template>
+<script>
+  ubah_nama = () => {
+    document.querySelectorAll('.nama').forEach(x => x.innerHTML = location.hash.split('/')[1])
+  }
+  after_router(ubah_nama)
+</script>

@@ -1,2 +1,3 @@
-# diy-router
-Router buatan sendiri
+# DIY Router
+
+Jadinya: <https://mzaini30.js.org/diy-router/>.
